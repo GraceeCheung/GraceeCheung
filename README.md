@@ -2,7 +2,7 @@
 
 ### I'm GraceeCheung, a college student :computer:
 
-![Coder Gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+<!-- ![Coder Gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif) -->
 
 ### :hammer_and_wrench: Technologies and Tools I use:
 
