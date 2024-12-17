@@ -1,8 +1,70 @@
-## Hi there 👋
+### Hi there 👋
+
+### I'm GraceeCheung, a college student :computer:
+
+![Coder Gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
+### :hammer_and_wrench: Technologies and Tools I use:
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://nuxt.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" width="40" height="40" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://webpack.js.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+  </a>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraceeCheung)](https://github-readme-stats.vercel.app/api/top-langs/?username=GraceeCheung) -->
+
+<!-- https://devicon.dev/ -->
+<!-- https://www.vectorlogo.zone/logos/ /> -->
+
+
+### 👨🏻‍💻 About Me:
+
+- :computer: I'm a college student
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <!--
-**GraceeCheung/GraceeCheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### :heart: Let's get connected:
+
+-->
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +76,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![GraceeCheung's github stats](https://github-readme-stats.vercel.app/api?username=GraceeCheung)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![profile count](https://profile-counter.glitch.me/GraceeCheung/count.svg) -->
